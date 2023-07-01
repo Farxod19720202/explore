@@ -6,7 +6,7 @@ items:
  - gamelab/kiwi.js
  - craftyjs/Crafty
  - liabru/matter-js
- - piqnt/stage.js
+ - shakiba/stage.js
  - cocos2d/cocos2d-html5
  - playcanvas/engine
  - BabylonJS/Babylon.js
@@ -14,7 +14,7 @@ items:
  - qiciengine/qiciengine
  - WhitestormJS/whs.js
  - GooTechnologies/goojs
- - piqnt/planck.js
+ - shakiba/planck.js
  - Irrelon/ige
  - 4ian/GDevelop
  - mrdoob/three.js
